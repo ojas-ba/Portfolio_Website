@@ -100,4 +100,8 @@
   .text-container {
     text-align: justify;
   }
+  .about-pic{
+    height: 100%;
+    width: auto;
+  }
 }
