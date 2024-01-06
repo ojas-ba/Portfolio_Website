@@ -15,7 +15,7 @@
 @media screen and (max-width: 1200px) {
   #desktop-nav {
     display: none;
-    color : gold;
+    color : Black;
   }
   #hamburger-nav {
     display: flex;
